@@ -1,6 +1,6 @@
-import React from 'react';
-import SummaryForm from './SummaryForm';
-import { useOrderDetails } from '../../contexts/OrderDetails';
+import React from "react";
+import SummaryForm from "./SummaryForm";
+import { useOrderDetails } from "../../contexts/OrderDetails";
 
 export default function OrderSummary({ setOrderPhase }) {
   const [orderDetails] = useOrderDetails();
