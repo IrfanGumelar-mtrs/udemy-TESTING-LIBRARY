@@ -18,7 +18,7 @@ This repository is forked from [Bonnie Schulkin's
 
 ---
 
-#### Introduction
+### Introduction
 
 This app is a simple ice cream order application to demonstrate how to do testing on React application.
 
@@ -26,7 +26,7 @@ This repository consist of 2 subs repository which is frontend repository under 
 
 The frontend directory is for the React app and the backend directory for the Express app.
 
-#### How to run the app
+### How to run the app
 
 Run the frontend app. From your app root direcotry:
 
@@ -44,7 +44,7 @@ npm install
 npm run start
 ```
 
-#### How to run the test
+### How to run the test
 
 From your app root directory:
 
