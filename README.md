@@ -9,6 +9,8 @@
 This repository is forked from [Bonnie Schulkin's
 ](https://github.com/bonnie) repository that originally was for her Udemy Course [React Testing Library and Jest](https://www.udemy.com/course/react-testing-library/?referralCode=0B60E8FEB40F0D159E84).
 
+Link to original repository: https://github.com/bonnie/udemy-TESTING-LIBRARY
+
 ##### Changes made to the original code
 
 - `readme.md` is altered to add legal information, introduction and instruction how to run the app. And the title is renamed to **_"React Testing Example"_**
